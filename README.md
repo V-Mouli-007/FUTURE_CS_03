@@ -15,7 +15,7 @@
 1. **Documentation Review:** Analyzed standard API documentation to understand expected endpoint behaviors.
 2. **Endpoint Testing:** Executed safe GET/POST requests via Postman.
 3. **Traffic Inspection:** Evaluated authentication mechanisms, response payloads, and HTTP headers.
-4. **Risk Identification:** Classified security risks based on standard Application Security (AppSec) principles.
+4. **Risk Identification:** Classified security risks based on standard Application Security (AppSec) principles
 5. **Reporting:** Documented findings and proposed actionable remediation steps.
 
 ## ⚠️ Risks Identified
